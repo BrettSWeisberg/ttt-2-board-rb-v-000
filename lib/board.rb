@@ -1,4 +1,4 @@
 # Define the variable board below.
-Board = "Board"
+Board = "board"
 
 BOARD = [" "," "," "," "," "," "," "," "," "]
